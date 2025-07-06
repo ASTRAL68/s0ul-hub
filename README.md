@@ -5,7 +5,7 @@ local jeuAutorisé = 1234567890  -- Remplace par l'ID de ton jeu
 if game.PlaceId == jeuAutorisé then
     print("Jeu correct détecté. Activation du script...")
     
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ASTRAL68/animal-simulator/refs/heads/main/README.md"))()
 
 else
     warn("Ce n'est pas le bon jeu. Script désactivé.")
