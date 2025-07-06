@@ -1,5 +1,5 @@
 -- ID du jeu autorisé
-local jeuAutorisé = 1234567890  -- Remplace par l'ID de ton jeu
+local jeuAutorisé = 5712833750  -- Remplace par l'ID de ton jeu
 
 -- Vérifie si le jeu actuel est le bon
 if game.PlaceId == jeuAutorisé then
